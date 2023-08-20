@@ -20,15 +20,11 @@
     <li>Firebase (Auth, FireStore, Storage)</li>
 </ul>
 
-<p align="center">
-<img src="./src/assets/readme.gif" title="App demo" alt='App demo' />
-</p>
-
 <h1> Testing this app </h1>
 
 ```bash
     # Clone repository
-    $ git clone https://github.com/yagoramires/movie-reviews.git
+    $ git clone https://github.com/TrinhVinhQuy/react.git
     # Access the repository folder
     $ cd movie-reviews
     # Install the dependencies
@@ -41,18 +37,5 @@
 <h1> Author </h1>
 
 <div align="center" >
-    <p>
-        <img style="border-radius: 50%;" src="https://i.imgur.com/mDJjScy.jpg" width="150px;" />
-    </p>
-    <p>
-        <a
-            href="https://www.linkedin.com/in/yagoramires/"
-            target="_blank"
-            >
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/yagoramires" ><b>Yago Ramires</b> 🚀</a>
-    </p>
+    <h1>Trịnh Xuân Vinh Quy</h1>
 </div>
